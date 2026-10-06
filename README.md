@@ -1,20 +1,21 @@
-# Hi there, I'm AIT LAHCEN Achraf ! 👋
+# Hi there, I'm BENCHERKI Abdallah! 👋
 
-**5th-Year Computer Engineering Student (MIAGE/DSI) | Data, AI & ERP Specialist**
+**5th-Year Computer Engineering Student | Full-Stack Developer | AI Integration**
 
-I am a final-year Computer Engineering student at EMSI Casablanca, deeply passionate about the convergence of Data Science, Artificial Intelligence, and Enterprise Information Systems. My core focus lies in integrating intelligent AI models (local LLMs, RAG, Computer Vision), engineering robust data pipelines, and performing rigorous statistical data analysis (PCA, AFC). I love taking complex business problems and turning them into secure, data-driven enterprise solutions backed by strong ERP and IT governance principles.
+I'm a final-year Computer Engineering student at EMSI Casablanca, passionate about building robust full-stack applications and integrating AI into real business workflows. I enjoy turning complex, document-heavy processes into automated, reliable and user-friendly systems, from the Spring Boot backend to the React interface.
+
+
+### 🌍 Languages
+
+Arabic (native) · French (bilingual) · English (very good) · Spanish (basic)
 
 ### 🌟 Beyond the Screen
 
-While my core focus is on data engineering and exploring LLM architectures, I believe in a strong work-life balance. Here’s what I enjoy outside of tech:
-
-- 🥋 **Sports:** I stay active by playing soccer with friends and training Calisthenics.
-- 📺 **Anime & Manga:** I'm a huge shonen enthusiast! Always up for a debate about the latest *One Piece* chapters, *Jujutsu Kaisen* plotlines, *Bleach: Thousand-Year Blood War*, *Demon Slayer*, or classic *Naruto Shippuden* arcs.
-- 🌍 **Lifelong Learner:** Beyond computer science, I have a deep curiosity for general knowledge and scientific discoveries. I also have a strong passion for linguistics and learning new languages to connect with different cultures.
+- 🏀 **Basketball:** Always up for a game.
+- ⚽ **Football:** Playing and following the game.
+- 🐎 **Horse riding:** My favorite way to disconnect from the screen.
 
 ---
-
-
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i><br>
   — <b>Alan Kay</b>
