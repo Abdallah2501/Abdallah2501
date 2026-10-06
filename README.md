@@ -23,25 +23,9 @@ While my core focus is on data engineering and exploring LLM architectures, I be
 <div align="center">
   <img src="https://i.logos-download.com/114230/31110-a45dfa1ab82fc985b56eec1578d61844.png/Qwen_Logo_full.png?dl" height="60" alt="qwen logo"  />
   <img width="12" />
-  <img src="https://mkp-products.obs.ru-moscow-1.hc.sbercloud.ru/c1aa07bf-8a35-473a-ac9b-ba16f7b0b1e6%2Flogo" height="60" alt="bge-m3 logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/encode/httpx/master/docs/img/butterfly.png" height="60" alt="httpx logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/IBM_granite_2_cubes_logo.svg/960px-IBM_granite_2_cubes_logo.svg.png" height="60" alt="granite logo"  />
-  <img width="12" />
-  <img src="https://repository-images.githubusercontent.com/156939672/37b1cb00-864b-11eb-8220-76153935f7da" height="60" alt="onnxruntime logo"  />
-  <img width="6" />
-  <img src="https://www.oceanxtech.com/wp-content/uploads/2025/01/paddle-paddle-logo-rwd.png.rendition.intel_.web_.480.270.png" height="60" alt="paddlepaddle logo"  />
-  <img width="12" />
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641740033666/3ZZGlgI9h.png" height="75" alt="beautifulsoup logo"  />
-  <img width="6" />
-  
-  <img src="https://support.getalembic.com/hc/theming_assets/01HZH3YX56SR6WB38CW3K54G1A" height="60" alt="alembic logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/glmv-color.png" height="60" alt="glm-ocr logo"  />
-  <img width="12" />
-  
-  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" height="60" alt="sqlalchemy logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" height="70" alt="langchain logo"  />
   <img src="https://avatars.githubusercontent.com/u/48152365?s=280&v=4" height="60" alt="pymupdf logo"  />
@@ -67,10 +51,6 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="5" />
   <img src="https://images.ctfassets.net/ooa29xqb8tix/304Tlb60pUSlhG8CMC5gUf/4bc2717aad54e15dd68d275520eb06d8/claude-code.svg" height="80" alt="claude code logo"  />
   <img width="5" />
-  <img src="https://guides.micronaut.io/latest/images/micronaut_stacked_black.png" height="60" alt="micronaut logo"  />
-  <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/m/66/minio.svg" height="60" alt="minio logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="60" alt="kotlin logo"  />
   <img width="12" />
   
@@ -78,18 +58,9 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="12" />
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
   <img width="12" />
-  
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" height="70" alt="langgraph logo"  />
-  <img width="12" />
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/09/uv.svg.png" height="70" alt="uv logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1280px-Prometheus_software_logo.svg.png" height="60" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://algo-mania.com/wp-content/uploads/2025/05/mediapipe_logo.png" height="60" alt="mediapipe logo"  />
-  <img width="12" />
   <img src="https://pypi-camo.freetls.fastly.net/ef5bddae9a8a975d7be7a05765bc6f2665ac7a1a/68747470733a2f2f6769746875622e636f6d2f737472617762657272792d6772617068716c2f737472617762657272792f7261772f6d61696e2f2e6769746875622f6c6f676f2e706e67" height="60" alt="strawberry logo"  />
   <img width="12" />
-  <img src="https://yolov8.org/wp-content/uploads/2024/01/cropped-63f6895d515270ffdafd36d5_yolov8.png" height="60" alt="yolo logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2021/03/Google-Fonts-New-Logo.png" height="60" alt="googlefonts logo"  />
   <img width="12" />
   <img src="https://cdn.creazilla.com/icons/3254069/material-ui-icon-size_256.png" height="60" alt="mui logo"  />
   <img width="12" />
@@ -139,8 +110,6 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" height="60" alt="qdrant logo"  />
   <img width="5" />
   <img src="https://docling-project.github.io/docling/assets/logo.png" height="60" alt="docling logo"  />
-  <img width="5" />
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" height="60" alt="pinecone logo"/>
   <img width="5" />
   <img src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" height="60" alt="dash plotly logo"/>
   <img width="5" />
