@@ -294,8 +294,6 @@ Arabic (native) · French (bilingual) · English (very good) · Spanish (basic)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="60" alt="fsharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
@@ -303,10 +301,6 @@ Arabic (native) · French (bilingual) · English (very good) · Spanish (basic)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg" height="60" alt="google logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gradle" height="60" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="60" alt="groovy logo"  />
-  <img width="12" />
-  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="60" alt="packet tracer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" alt="html5 logo"  />
   <img width="12" />
